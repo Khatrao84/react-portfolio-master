@@ -47,7 +47,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-          Self-driving, this function use a combination of sensors and software to control, navigate and drive the electric vehicle.
+          Self-driving is mix of sensors and software to control, navigate and drive the EV.
           </p>
         </motion.div>
 
@@ -65,7 +65,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-          Electric cars are loaded with technologies, from battery info to accessing maps you can control complete car by a single touch panel. 
+          From battery info to accessing maps you can control complete EV by a single touch panel. 
           </p>
         </motion.div>
 
@@ -83,7 +83,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-          In a EV refilling is easy.You can charge your electric car anywhere and anytime, like example home, office, etc. 
+          You can charge your EV anywhere and anytime, like home, office, etc. 
           </p>
         </motion.div>
       </div>
