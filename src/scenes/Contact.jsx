@@ -52,8 +52,9 @@ const Contact = () => {
             hidden: { opacity: 0, y: 50 },
             visible: { opacity: 1, y: 0 },
           }}
-          className="basis-1/2 flex justify-center before:left-1/2 before:content-vehical4 "
+           className="basis-1/2 flex justify-center"
         >
+          <img src="../assets/contact-image.jpeg" alt="contact" />
           
         </motion.div>
 
